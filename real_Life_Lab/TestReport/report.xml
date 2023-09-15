@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="26.322">
+<testcase classname="Search the product" name="search the product from excel sheet" time="26.085">
+<system-out><![CDATA[Given a user is on the landing page.........................................passed
+When he click login button..................................................passed
+And he writes product name..................................................passed
+And he clicks on search button..............................................passed
+Then he must be able to verify the product "Delivery date:".................passed
+]]></system-out>
+</testcase>
+</testsuite>
